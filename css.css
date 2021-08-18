@@ -233,6 +233,7 @@ ul li.active {
     border-radius: 20px/50px;
     text-decoration: none;
     cursor: pointer;
+    colour: black;
   }
   .button:hover {
     background: #009494;
